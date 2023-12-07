@@ -1,0 +1,25 @@
+﻿{
+  "name": "IISTrtrgfdg",
+  "modelName": "i-i-s-trtr-gfdg",
+  "className": "gfdg",
+  "nameSpace": "IIS.Trtr",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "tIME",
+      "type": "date",
+      "flexberryType": "DateTime",
+      "notNull": false,
+      "defaultValue": "local",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
